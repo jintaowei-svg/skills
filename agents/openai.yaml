@@ -1,0 +1,15 @@
+interface:
+  display_name: IEEE TON System Model Polisher
+  short_description: Polish IEEE/ACM TON-style system model writing into clear, narrative,
+    LaTeX-ready prose.
+  icon: ✍️
+  brand_color: '#1F4E79'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
