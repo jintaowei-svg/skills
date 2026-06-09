@@ -1,0 +1,3 @@
+interface:
+  display_name: "IEEE TON Problem Formulation Polisher"
+  short_description: "Polish and restructure IEEE-style problem formulation sections."
